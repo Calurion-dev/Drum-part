@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+*.spec
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Note: dist/ is intentionally tracked (contains Drumpart.exe for distribution)
